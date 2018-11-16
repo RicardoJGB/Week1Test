@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week1Test</string>
+    <string name="TigerSpecies">TigerSpecies</string>
+    <string name="TigerPhyl">TigerPhyl</string>
+    <string name="MonkeySpecies">MonkeySpecies</string>
+    <string name="MonkeyPhyl">MonkeyPhyl</string>
+</resources>
